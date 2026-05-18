@@ -15,7 +15,7 @@ A clean, responsive password generator built with React and Tailwind CSS.
 - Netlify (deployment)
 
 ## Live Demo
-[View demo]([https://password-generator-react.vercel.app](https://arisha-password-generator.netlify.app/)) 
+[View demo]((https://arisha-password-generator.netlify.app/)) 
 
 ## Run Locally
 ```bash
